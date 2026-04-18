@@ -26,12 +26,12 @@
           <mxGeometry x="380" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-11" value="xianshi" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="220" width="80" height="30" as="geometry" />
+          <mxGeometry x="380" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-13" value="battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-15" value="IP/IP2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-15" value="cmd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
