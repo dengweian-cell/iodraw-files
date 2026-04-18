@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-1" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="105" width="120" height="60" as="geometry" />
+          <mxGeometry x="325" y="105" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="210" width="350" height="160" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-5" value="HTTP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="395" y="165" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-6" value="IP/IP2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="225" y="240" width="80" height="30" as="geometry" />
@@ -34,11 +34,8 @@
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-15" value="cmd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="210" as="sourcePoint" />
-            <mxPoint x="380" y="115" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7UwZf5Ox7ZdF5X4FOXF-17" target="J7UwZf5Ox7ZdF5X4FOXF-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-17" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
