@@ -34,14 +34,16 @@
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-15" value="cmd" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="300" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7UwZf5Ox7ZdF5X4FOXF-17" target="J7UwZf5Ox7ZdF5X4FOXF-15">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7UwZf5Ox7ZdF5X4FOXF-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-17" value="硬件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-19" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="400" width="60" height="30" as="geometry" />
+          <mxGeometry x="395" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
