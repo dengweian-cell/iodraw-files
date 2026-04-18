@@ -29,7 +29,10 @@
           <mxGeometry x="510" y="220" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-13" value="IP/IP2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="80" height="30" as="geometry" />
+          <mxGeometry x="150" y="280" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-15" value="IP/IP2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
