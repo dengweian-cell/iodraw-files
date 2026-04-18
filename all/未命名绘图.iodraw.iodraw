@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7UwZf5Ox7ZdF5X4FOXF-1" target="J7UwZf5Ox7ZdF5X4FOXF-9">
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="J7UwZf5Ox7ZdF5X4FOXF-1" target="J7UwZf5Ox7ZdF5X4FOXF-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-1" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -44,12 +44,6 @@
         </mxCell>
         <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-19" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="360" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-23" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
-            <mxPoint x="500" y="220" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
