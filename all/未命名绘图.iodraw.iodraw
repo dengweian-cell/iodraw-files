@@ -46,7 +46,7 @@
             <mxPoint x="383.58" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="J7UwZf5Ox7ZdF5X4FOXF-19" value="MQTT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
